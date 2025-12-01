@@ -1,0 +1,9 @@
+{
+	"name": "azurekoreafactory",
+	"location": "koreacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce495a8c-1d48-43af-b8d6-552bb96d8f38",
+		"tenantId": "1c3905e6-1d90-465c-b0d5-351ef58dd742"
+	}
+}
